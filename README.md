@@ -27,8 +27,8 @@
 ###
 
 <div align="right">
-  <img src="https://streak-stats.demolab.com?user=GDG-Taibah&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="250" 
-Width="650" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=GDG-Taibah&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" 
+Width="550" alt="streak graph"  />
 </div>
 
 
