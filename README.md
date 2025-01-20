@@ -31,11 +31,7 @@
 Width="700" alt="streak graph"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/GDG-Taibah/GDG-Taibah/output/snake.svg" alt="Snake animation" />
 
 ###
 
