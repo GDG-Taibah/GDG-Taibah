@@ -17,19 +17,17 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
+	<a href="https://gdg.community.dev/gdg-on-campus-taibah-university-women-campus-medina-saudi-arabia/" target="_blank">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
 </div>
 
 ###
 
-<img align="left" height="200" src="https://i.ibb.co/qkY6fC2/download-1.png" alt="download-1" border="0"></a>
+<img align="center" height="200" src="https://i.ibb.co/qkY6fC2/download-1.png" alt="download-1" border="0"></a>
 
 ###
 
-<div align="right">
-  <img src="https://streak-stats.demolab.com?user=GDG-Taibah&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" 
-Width="550" alt="streak graph"  />
-</div>
+
 
 
 </p>
